@@ -39,8 +39,8 @@
 		5AD4EBE42A40DC2C0058B27D = {
 			isa = PBXGroup;
 			children = (
-				5AD4EC042A40DEC20058B27D /* README.md */,
 				5AD4EBEF2A40DC2C0058B27D /* IMessage App */,
+				5AD4EC042A40DEC20058B27D /* README.md */,
 				5AD4EBEE2A40DC2C0058B27D /* Products */,
 			);
 			sourceTree = "<group>";
